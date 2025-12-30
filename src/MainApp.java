@@ -80,7 +80,7 @@ public class MainApp extends JFrame {
             modelProductos.addColumn("PRECIO");
 
             Statement st2 = conn.createStatement();
-            ResultSet rs2 = st2.executeQuery("SELECT * FROM PRODUCTOS ORDER BY ID_PRODUCTO");
+            ResultSet rs2 = st2.executeQuery("SELECT * FROM PRODUCTOS_S ORDER BY ID_PRODUCTO");
 
             while (rs2.next()) {
                 modelProductos.addRow(new Object[]{
