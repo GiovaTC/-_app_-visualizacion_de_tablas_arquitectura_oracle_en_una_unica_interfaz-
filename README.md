@@ -2,7 +2,11 @@
 # Aplicación Java Swing + Oracle 19c .  
 **Visualización de Tablas + Arquitectura Oracle en una Única Interfaz** :
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/14067548-0499-4c47-b76e-976d344e67d4" />  
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/14067548-0499-4c47-b76e-976d344e67d4" />    
+
+<img width="2551" height="1079" alt="image" src="https://github.com/user-attachments/assets/b14e6c5c-6665-4d20-85a4-925cc243175f" />    
+
+<img width="2553" height="1079" alt="image" src="https://github.com/user-attachments/assets/8042d881-aa08-4390-bf39-c8462534ece5" />        
 
 A continuación encontrará una **solución completa, profesional y lista para ejecutar en IntelliJ IDEA**, que realiza lo siguiente :
 
