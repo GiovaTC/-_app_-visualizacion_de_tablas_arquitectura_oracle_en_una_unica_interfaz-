@@ -51,7 +51,7 @@ public class MainApp extends JFrame {
     private void cargarDatos() {
         String url = "jdbc:oracle:thin:@//localhost:1521/orcl";
         String user = "system"; // cambiar segun su instancia : .
-        String pass = "system"; // cambiar segun su instancia / . ;
+        String pass = "Tapiero123"; // cambiar segun su instancia / . ;
         try (Connection conn = DriverManager.getConnection(url, user, pass))
         {
             // CLIENTES
